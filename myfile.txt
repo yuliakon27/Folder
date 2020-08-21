@@ -1,7 +1,14 @@
 this is my first line in the git track ill
 second change
+git init - to initiate yourself
+
 git add .
-git commit -m “hah’
-git status
+git commit -m “hah” use the commend otherwise it will open the editor
+git status - to see the result
+
+if you have another changes you have to do it again, but in that case use -am
 git add .
-git commit -am
+git commit -am “commend”
+git log
+git config —global user.name “name”
+git config —global email yu.l@gmail.com
