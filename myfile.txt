@@ -1,2 +1,7 @@
 this is my first line in the git track ill
 second change
+git add .
+git commit -m “hah’
+git status
+git add .
+git commit -am
