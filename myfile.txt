@@ -1,5 +1,4 @@
-this is my first line in the git track ill
-second change
+GIT INTRODUCTION 
 git init - to initiate yourself
 
 git add .
